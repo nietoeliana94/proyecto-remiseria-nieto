@@ -3,8 +3,11 @@
 ## PRIMERA ENTREGA
 
 Alumna: Nieto Eliana
+
 Comisión: 57190
+
 Profesor: Anderson Ocaña
+
 Tutor: Leonel Lo Presi
 
 ## Problema
