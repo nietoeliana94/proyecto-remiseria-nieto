@@ -2,10 +2,10 @@
 # PRESENTACIÓN DE BASES DE DATOS PARA UNA REMISERÍA -
 ## PRIMERA ENTREGA
 
-- Alumna: Nieto Eliana
-- Comisión: 57190
-- Profesor: Anderson Ocaña
-- Tutor: Leonel Lo Presi
+Alumna: Nieto Eliana
+Comisión: 57190
+Profesor: Anderson Ocaña
+Tutor: Leonel Lo Presi
 
 ## Problema
 La remisería tiene varios problemas con la gestión de sus operaciones diarias en el manejo de información.
